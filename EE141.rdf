@@ -1,0 +1,317 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <bib:Article rdf:about="#item_17842">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jevtic</foaf:surname>
+                        <foaf:givenName>Ruzica</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_17833"/>
+        <dc:title>Lecture17_Ratioed_Pass</dc:title>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_17833">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17833/Jevtic - EE141-Spring 2012 Digital Integrated Circuits.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17843">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17841"/>
+        <link:link rdf:resource="#item_17844"/>
+        <dc:title>数字集成电路--电路、系统与设计（第二版）复习资料</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17841">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17841/数字集成电路--电路、系统与设计（第二版）复习资料.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_17844">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17844/数字集成电路--电路、系统与设计（第二版）复习资料 .docx"/>
+        <dc:title>数字集成电路--电路、系统与设计（第二版）复习资料</dc:title>
+        <link:type>application/vnd.openxmlformats-officedocument.wordprocessingml.document</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17845">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17816"/>
+        <dc:title>Lecture1_Intro</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17816">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17816/Lecture1_Intro.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17846">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17817"/>
+        <dc:title>Lecture2_Metrics_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17817">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17817/Lecture2_Metrics_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17847">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17818"/>
+        <dc:title>Lecture3-DesignRules-HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17818">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17818/Lecture3-DesignRules-HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17848">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17819"/>
+        <dc:title>Lecture4_DR_Logic_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17819">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17819/Lecture4_DR_Logic_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17849">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17820"/>
+        <dc:title>Lecture5_SwitchLogic_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17820">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17820/Lecture5_SwitchLogic_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17850">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17821"/>
+        <dc:title>Lecture6_ComplexLogic_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17821">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17821/Lecture6_ComplexLogic_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17851">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17822"/>
+        <dc:title>Lecture7_Wires_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17822">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17822/Lecture7_Wires_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17852">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17823"/>
+        <dc:title>Lecture8_Wires_Logic</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17823">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17823/Lecture8_Wires_Logic.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17853">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17824"/>
+        <dc:title>Lecture9_Transistors_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17824">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17824/Lecture9_Transistors_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17854">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17825"/>
+        <dc:title>Lecture10_Inverter_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17825">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17825/Lecture10_Inverter_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17855">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17826"/>
+        <dc:title>Lecture11_InverterDelay_Energy_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17826">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17826/Lecture11_InverterDelay_Energy_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17856">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17827"/>
+        <dc:title>Lecture12_Adders</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17827">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17827/Lecture12_Adders.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17857">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17829"/>
+        <dc:title>Lecture13_Multipliers_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17829">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17829/Lecture13_Multipliers_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17858">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17830"/>
+        <dc:title>Lecture14_Memory_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17830">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17830/Lecture14_Memory_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17859">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17831"/>
+        <dc:title>Lecture15_InverterDelay_Energy_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17831">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17831/Lecture15_InverterDelay_Energy_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17860">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17832"/>
+        <dc:title>Lecture16_ComplexCMOS_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17832">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17832/Lecture16_ComplexCMOS_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17861">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17834"/>
+        <dc:title>Lecture18_Dynamic_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17834">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17834/Lecture18_Dynamic_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17862">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17835"/>
+        <dc:title>Lecture19_Layout_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17835">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17835/Lecture19_Layout_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17863">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17836"/>
+        <dc:title>Lecture20_Sequential_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17836">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17836/Lecture20_Sequential_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17864">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17837"/>
+        <dc:title>Lecture21_Timing_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17837">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17837/Lecture21_Timing_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17865">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17838"/>
+        <dc:title>Lecture22_Timing_Clocks_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17838">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17838/Lecture22_Timing_Clocks_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17866">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17839"/>
+        <dc:title>Lecture23_Clocks__Power_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17839">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17839/Lecture23_Clocks__Power_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17867">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17840"/>
+        <dc:title>Lecture24_Scaling_and_Energy_HO2</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17840">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17840/Lecture24_Scaling_and_Energy_HO2.pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_17868">
+        <z:itemType>document</z:itemType>
+        <link:link rdf:resource="#item_17828"/>
+        <dc:title>Digital Integrated Circuits (2nd Edition)</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_17828">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17828/Digital Integrated Circuits (2nd Edition).pdf"/>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
